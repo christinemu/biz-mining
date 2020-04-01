@@ -1,0 +1,8 @@
+digraph {
+	node [fontname=STKAITI shape=oval]
+	A [label="分类模型误差" shape=plaintext]
+	B [label="训练误差"]
+	C [label="泛化误差"]
+	A -> B
+	A -> C
+}

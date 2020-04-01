@@ -1,0 +1,35 @@
+digraph decisionTreeC {
+	node [fontname=STKAITI shape=rect]
+	{
+		rank=same
+		A [label="有房者" shape=oval]
+		A0 [label="内部结点" shape=plaintext]
+		A0 -> A [style=dashed]
+	}
+	C [label="婚姻状况" shape=oval]
+	{
+		rank=same
+		C0 [label="根结点" shape=plaintext]
+		C0 -> C [style=dashed]
+	}
+	{
+		rank=same
+		G0 [label="叶结点" shape=plaintext]
+		B [label="无拖欠" color=lightblue style=filled]
+	}
+	D [label="年收入" shape=oval]
+	E [label="无拖欠" color=lightblue style=filled]
+	F [label="无拖欠" color=lightblue style=filled]
+	G [label="拖欠" color=sandybrown style=filled]
+	G0 -> F [style=dashed]
+	G0 -> G [style=dashed]
+	G0 -> B [style=dashed]
+	G0 -> E [style=dashed]
+	A0 -> D [style=dashed]
+	C -> B [label="已婚"]
+	C -> A [label="单身/离异"]
+	A -> E [label="有房"]
+	A -> D [label="无房"]
+	D -> F [label="<80K"]
+	D -> G [label=">80K"]
+}

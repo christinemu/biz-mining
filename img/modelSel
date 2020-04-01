@@ -1,0 +1,19 @@
+digraph {
+	graph [rankdir=LR]
+	node [fontname=STKAITI]
+	A [label="模型选择方法" shape=plaintext]
+	B [label="保持方法
+ Holdout"]
+	B1 [label="分成训练集与检验集，用检验集评估模型性能" shape=plaintext]
+	C [label="随机二次抽样"]
+	C1 [label="多次应用“保持方法”,但未控制每个记录用于训练与检验的次数" shape=plaintext]
+	D [label="交叉验证"]
+	E [label="自助法
+ bootstrap"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	B -> B1 [shape=None]
+	C -> C1 [style=None]
+}

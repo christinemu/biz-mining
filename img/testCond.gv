@@ -1,0 +1,22 @@
+digraph testCond {
+	graph [rankdir=LR]
+	node [fontname=STKAITI shape=oval]
+	edge [arrowhead=vee]
+	A [label="表示测试条件"]
+	B [label="属性类型"]
+	C [label="分裂方式"]
+	E [label="二元属性" shape=plaintext]
+	F [label="标称属性" shape=plaintext]
+	G [label="序数属性" shape=plaintext]
+	H [label="连续属性" shape=plaintext]
+	I [label="二元划分" shape=plaintext]
+	J [label="多路划分" shape=plaintext]
+	A -> B
+	A -> C
+	B -> E
+	B -> F
+	B -> G
+	B -> H
+	C -> I
+	C -> J
+}

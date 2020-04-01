@@ -1,0 +1,8 @@
+digraph incomeBinary {
+	node [fontname=STKAITI shape=plaintext]
+	A [label="年收入>80K?" shape=oval]
+	B [label="是"]
+	C [label="否"]
+	A -> B
+	A -> C
+}

@@ -1,0 +1,20 @@
+digraph {
+	node [fontname=STKAITI shape=record]
+	A [label="顾客ID" shape=oval]
+	{
+		rank=same
+		B [label="{<t0>C0:1|<t1>C1:0}"]
+		C [label="{<t2>C0:1|C1:0}"]
+		B -> C [dir=none style=dotted]
+	}
+	{
+		rank=same
+		D [label="{<t3>C0:0|C1:1}"]
+		E [label="{<t4>C0:0|C1:1}"]
+		D -> E [dir=none style=dotted]
+	}
+	A -> B [xlabel=1]
+	A -> C [label=10]
+	A -> D [label=11]
+	A -> E [label=20]
+}
