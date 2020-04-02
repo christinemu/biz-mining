@@ -1,9 +1,0 @@
-digraph step1 {
-	node [fontname=STKAITI shape=rect]
-	edge [arrowhead=vee]
-	A [label="有房者" shape=oval]
-	B [label="未拖欠贷款" color=lightblue style=filled xlabel="(3, 0)"]
-	C [label="拖欠贷款" xlabel="(4, 3)"]
-	A -> B [label="是"]
-	A -> C [label="否"]
-}
