@@ -1,0 +1,16 @@
+digraph {
+	node [fontname=STKAITI shape=record]
+	A [label="x<0.43" shape=oval]
+	B [label="y<0.47" shape=oval]
+	C [label="y<0.33" shape=oval]
+	D [label="{v:4|o:0}"]
+	E [label="{v:0|o:4}"]
+	F [label="{v:0|o:3}"]
+	G [label="{v:4|o:0}"]
+	A -> B [xlabel="是"]
+	A -> C [label="否"]
+	B -> D [xlabel="是"]
+	B -> E [label="否"]
+	C -> F [label="是"]
+	C -> G [label="否"]
+}

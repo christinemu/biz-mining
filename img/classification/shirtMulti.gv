@@ -1,0 +1,12 @@
+digraph shirtMulti {
+	node [fontname=STKAITI shape=plaintext]
+	A [label="衬衣大小" shape=oval]
+	B [label="小号"]
+	C [label="中号"]
+	D [label="大号"]
+	E [label="特大号"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+}
