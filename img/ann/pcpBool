@@ -1,0 +1,18 @@
+digraph {
+	graph [rankdir=LR]
+	node [fontname=STKAITI shape=plaintext]
+	A [label=x1]
+	B [label=x2]
+	C [label=x3]
+	{
+		rank=same
+		D [label="t=0.4"]
+		E [label="输出结点" shape=oval]
+		D -> E
+	}
+	F [label=y]
+	A -> E [label=0.3]
+	B -> E [label=0.3]
+	C -> E [label=0.3]
+	E -> F
+}
