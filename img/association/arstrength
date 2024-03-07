@@ -1,9 +1,0 @@
-digraph {
-	graph [rankdir=LR]
-	node [fontname=STKAITI]
-	A [label="关联规则强度" shape=plaintext]
-	B [label="支持度"]
-	C [label="置信度"]
-	A -> B
-	A -> C
-}
