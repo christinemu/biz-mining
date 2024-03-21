@@ -1,0 +1,16 @@
+digraph decisionTree1 {
+	node [fontname=STKAITI shape=rect]
+	A [label="有房者" shape=oval]
+	B [label="无拖欠" color=lightblue style=filled xlabel="{4,0}"]
+	C [label="婚姻状况" shape=oval]
+	D [label="年收入" shape=oval]
+	E [label="无拖欠" color=lightblue style=filled xlabel="{2,0}"]
+	F [label="无拖欠" color=lightblue style=filled xlabel="{1,0}"]
+	G [label="拖欠" color=sandybrown style=filled xlabel="{0,3}"]
+	C -> B [label="已婚"]
+	C -> A [label="单身/离异"]
+	A -> E [label="有房"]
+	A -> D [label="无房"]
+	D -> F [label="<80K"]
+	D -> G [label=">80K"]
+}

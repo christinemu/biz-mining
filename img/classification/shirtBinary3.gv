@@ -1,0 +1,8 @@
+digraph shirtBinary3 {
+	node [fontname=STKAITI shape=plaintext]
+	A [label="衬衣大小" shape=oval]
+	B [label="{小号}"]
+	C [label="{中号、大号、特大号}"]
+	A -> B
+	A -> C
+}

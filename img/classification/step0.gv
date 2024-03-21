@@ -1,0 +1,4 @@
+digraph step0 {
+	node [fontname=STKAITI shape=rect]
+	A [label="拖欠贷款者" xlabel="(7, 3)"]
+}
