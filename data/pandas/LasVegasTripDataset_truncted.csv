@@ -1,0 +1,505 @@
+User country,Nr. hotel reviews,Helpful votes,Score,Traveler type,Pool,Gym,Spa,Free internet,Hotel name,Hotel stars,Nr. rooms,User continent
+USA,4,13,5,Friends,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+USA,21,75,3,Business,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+USA,9,25,5,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+UK,7,14,4,Friends,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Europe
+Canada,5,2,4,Solo,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+Canada,8,27,3,Couples,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+UK,12,46,4,Couples,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Europe
+USA,1,4,4,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+India,3,8,4,Friends,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Asia
+Canada,7,11,3,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+USA,24,58,2,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+Australia,9,24,3,Friends,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Oceania
+USA,6,9,2,Friends,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+USA,5,13,3,Friends,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+UK,3,0,3,Friends,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Europe
+New Zeland,17,33,4,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Oceania
+Canada,8,9,1,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+USA,3,1,4,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+Canada,9,19,3,Couples,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+USA,7,26,2,Couples,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+UK,5,2,4,Couples,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Europe
+New Zeland,3,3,1,Couples,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Oceania
+UK,7,19,4,Families,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,Europe
+USA,4,3,2,Couples,NO,YES,NO,YES,Circus Circus Hotel & Casino Las Vegas,3,3773,North America
+Ireland,11,15,4,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+USA,42,52,4,Business,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+Canada,12,17,5,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+UK,18,36,3,Business,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+USA,10,28,5,Solo,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+Ireland,7,9,5,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+Canada,8,13,5,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+Australia,3,2,3,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Oceania
+Canada,8,7,3,Solo,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+Egypt,12,8,3,Friends,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Africa
+Australia,9,15,4,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Oceania
+Finland,7,4,3,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+USA,27,24,4,Friends,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+Kenya,3,7,4,Friends,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Africa
+USA,263,299,4,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+USA,6,9,2,Families,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+Jordan,8,21,3,Business,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+Canada,5,59,3,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+Netherlands,3,3,3,Families,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+Ireland,6,27,4,Friends,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+USA,8,19,4,Families,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,North America
+UK,0,4,4,Friends,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+UK,47,54,4,Couples,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Europe
+Syria,8,30,3,Solo,YES,YES,YES,YES,Excalibur Hotel & Casino,3,3981,Asia
+UK,43,340,3,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+USA,8,11,4,Solo,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+USA,32,132,2,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+USA,13,22,4,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+Canada,10,32,3,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+USA,15,17,4,Business,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+Scotland,10,13,5,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+South Africa,18,16,2,Business,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Africa
+Australia,7,11,4,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Oceania
+UK,7,24,4,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+Ireland,5,7,4,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+Canada,9,15,4,Friends,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+UK,5,4,4,Families,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+New Zeland,6,19,3,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Oceania
+Swiss,19,36,2,Solo,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+UK,12,19,3,Families,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+United Arab Emirates,126,142,3,Friends,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Asia
+Ireland,17,16,4,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+USA,17,11,3,Families,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+USA,3,3,2,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+Hungary,5,8,4,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+China,0,2,1,Business,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Asia
+Greece,18,6,2,Business,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,Europe
+Mexico,14,36,5,Couples,YES,YES,YES,NO,Monte Carlo Resort&Casino,4,3003,North America
+Croatia,11,14,3,Business,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Europe
+Australia,5,8,4,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Oceania
+Canada,12,167,4,Friends,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+USA,9,16,5,Solo,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+USA,8,20,4,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+Canada,8,3,4,Friends,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+USA,14,7,4,Friends,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+Australia,13,16,3,Families,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Oceania
+India,4,25,3,Families,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Asia
+Germany,0,5,4,Friends,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Europe
+USA,17,16,3,Families,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+Canada,5,5,4,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+Australia,20,14,5,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Oceania
+Malaysia,14,27,4,Solo,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Asia
+Mexico,31,37,4,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,South America
+UK,3,4,4,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Europe
+UK,9,6,3,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Europe
+USA,11,30,4,Business,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+Australia,7,4,5,Families,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Oceania
+USA,11,5,3,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+Thailand,3,1,5,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Asia
+Australia,9,8,4,Families,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,Oceania
+Canada,3,7,4,Friends,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+Canada,16,48,5,Couples,YES,YES,YES,YES,Treasure Island- TI Hotel & Casino,4,2884,North America
+UK,17,30,4,Families,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+USA,6,1,5,Friends,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,North America
+Phillippines,39,51,3,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Asia
+Israel,10,16,3,Business,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Asia
+Canada,3,8,4,Business,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,North America
+UK,4,9,4,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+Ireland,9,28,5,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+India ,15,103,4,Business,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Asia
+New Zeland,4,0,4,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Oceania
+Belgium,15,31,3,Friends,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+UK,41,61,4,Business,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+Australia,78,105,4,Friends,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Oceania
+UK,10,16,4,Solo,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+UK,6,17,4,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+New Zeland,7,3,5,Friends,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Oceania
+Australia,4,6,5,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Oceania
+Canada,0,9,1,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,North America
+Australia,3,2,5,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Oceania
+UK,6,6,5,Friends,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+USA,3,11,2,Friends,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,North America
+India,8,11,4,Solo,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Asia
+Netherlands,8,8,5,Friends,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+UK,6,11,5,Couples,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+UK,3,3,5,Families,YES,YES,YES,YES,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,Europe
+USA,14,24,5,Friends,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,33,85,4,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+Puerto Rico,38,81,5,Families,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+Canada,3,12,5,Families,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,12,10,5,Families,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,10,29,3,Families,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+Canada,5,4,5,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,4,21,4,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+UK,6,39,1,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,Europe
+UK,27,35,4,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,Europe
+USA,15,13,4,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,22,36,1,Solo,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,8,4,5,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+UK,56,37,3,Families,YES,YES,YES,YES,Caesars Palace,5,3348,Europe
+UK,10,17,5,Families,YES,YES,YES,YES,Caesars Palace,5,3348,Europe
+Canada,18,31,4,Friends,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,3,4,5,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,7,7,5,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,6,7,5,Business,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,12,16,5,Friends,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+Australia,24,43,5,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,Oceania
+Australia,6,9,3,Families,YES,YES,YES,YES,Caesars Palace,5,3348,Oceania
+USA,7,2,4,Families,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+USA,21,67,4,Couples,YES,YES,YES,YES,Caesars Palace,5,3348,North America
+Australia,9,14,4,Friends,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Oceania
+Australia,6,3,5,Friends,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Oceania
+Switzerland,9,15,4,Friends,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+UK,40,80,5,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+USA,5,1,5,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+USA,17,74,5,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+Ireland,7,21,4,Friends,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+USA,17,45,5,Business,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+Germany,15,55,5,Families,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+USA,8,10,2,Business,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+Germany,24,24,2,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+Ireland,5,18,5,Friends,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+USA,4,14,1,Business,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+Australia,3,0,4,Friends,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Oceania
+Canada,10,56,5,Families,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+USA,8,56,4,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+UK,9,10,5,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+Norway,6,7,5,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+USA,5,98,5,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+UK,4,16,5,Friends,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Europe
+Egypt,7,7,5,Business,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,Africa
+USA,19,45,5,Business,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+Canada,3,8,2,Couples,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+USA,3,8,5,Families,YES,YES,YES,YES,The Cosmopolitan Las Vegas,5,2959,North America
+Mexico,23,31,3,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+USA,6,11,5,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+Canada,0,4,5,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+USA,8,9,4,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+Canada,3,7,5,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+Canada,30,80,5,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+USA,10,14,4,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+Canada,33,60,5,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+France,4,8,5,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,Europe
+UK,20,71,5,Business,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,Europe
+USA,8,22,4,Friends,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+USA,20,14,3,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+Spain,8,10,4,Friends,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,Europe
+USA,11,21,5,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+UK,19,93,4,Friends,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,Europe
+USA,16,26,4,Business,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+UK,48,78,3,Friends,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,Europe
+USA,4,8,5,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+Canada,3,15,5,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+Australia,3,9,5,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,Oceania
+Singapore,7,10,5,Friends,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,Asia
+Brazil,25,35,3,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,South America
+USA,4,4,5,Couples,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+USA,55,113,4,Families,YES,YES,YES,YES,The Palazzo Resort Hotel Casino,5,3025,North America
+USA,48,82,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,3,9,5,Families,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+Canada,5,20,4,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,11,15,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,13,16,5,Friends,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,5,12,4,Business,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,35,48,5,Business,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,7,10,4,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+Singapore,10,16,3,Solo,YES,YES,YES,YES,Wynn Las Vegas,5,2700,Asia
+UK,5,5,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,Europe
+USA,27,365,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,4,4,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,10,17,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+Canada,4,10,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+Canada,46,99,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+Finland,13,25,5,Solo,YES,YES,YES,YES,Wynn Las Vegas,5,2700,Europe
+Canada,7,11,2,Business,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+Canada,12,26,5,Friends,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+USA,17,31,4,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+UK,4,16,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,Europe
+Costa Rica,9,3,5,Business,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+UK,18,14,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,Europe
+UK,6,10,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,Europe
+USA,13,55,5,Couples,YES,YES,YES,YES,Wynn Las Vegas,5,2700,North America
+UK,7,13,5,Solo,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Europe
+India,58,41,5,Business,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Asia
+USA,13,8,5,Business,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+USA,0,2,5,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+USA,8,23,5,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+USA,52,255,3,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+United Arab Emirates,7,6,4,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Asia
+USA,0,1,5,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+Singapore,11,17,4,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Asia
+Brazil,4,8,5,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,South America
+USA,18,16,5,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+USA,14,30,5,Business,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+Canada,20,55,5,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+USA,8,1,4,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+Iran,3,2,4,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Asia
+USA,17,24,5,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+UK,18,12,5,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Europe
+Egypt,0,15,1,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Africa
+Ireland,3,3,5,Friends,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Europe
+Australia,7,17,5,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Oceania
+Germany,0,1,2,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Europe
+Australia,16,17,4,Families,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,Oceania
+USA,19,76,4,Business,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+USA,25,24,5,Couples,YES,YES,YES,YES,Trump International Hotel Las Vegas,5,1282,North America
+Saudi Arabia,45,102,3,Business,YES,NO,NO,YES,The Cromwell,"4,5",188,Asia
+USA,0,2,4,Business,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,6,12,5,Families,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,4,0,5,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,9,6,2,Solo,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,14,70,5,Friends,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+Canada,0,1,5,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+Canada,0,4,2,Families,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,111,267,5,Friends,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,9,21,5,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,0,2,5,Friends,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,0,1,5,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,18,53,5,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,0,16,1,Friends,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+Netherlands,52,70,5,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,Europe
+UK,75,150,4,Families,YES,NO,NO,YES,The Cromwell,"4,5",188,Europe
+USA,11,17,5,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+Australia,12,27,4,Business,YES,NO,NO,YES,The Cromwell,"4,5",188,Oceania
+USA,61,116,3,Families,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+Norway,10,16,5,Friends,YES,NO,NO,YES,The Cromwell,"4,5",188,Europe
+Canada,22,53,3,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,33,55,4,Business,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+Canada,7,22,4,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+USA,4,1,4,Couples,YES,NO,NO,YES,The Cromwell,"4,5",188,North America
+Thailand,3,20,1,Business,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Asia
+USA,12,87,5,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+UK,40,81,4,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Europe
+USA,5,12,5,Business,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,14,23,5,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,38,27,4,Friends,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+UK,5,5,3,Families,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Europe
+Honduras,32,99,4,Friends,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,South America
+USA,12,3,5,Business,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+UK,20,86,5,Friends,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Europe
+UK,12,30,5,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Europe
+USA,8,26,4,Business,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,3,5,5,Friends,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,11,14,5,Families,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+UK,3,4,5,Families,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Europe
+USA,58,200,5,Families,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,11,15,5,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+UK,43,68,5,Friends,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Europe
+USA,5,1,5,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+UK,10,7,4,Business,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Europe
+India,7,8,5,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,Asia
+USA,5,14,5,Couples,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,25,41,5,Friends,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,10,6,5,Business,YES,YES,YES,YES,Encore at wynn Las Vegas,5,2034,North America
+USA,3,2,5,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+USA,39,48,2,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+Mexico,3,1,5,Business,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+Canada,4,4,5,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+UK,7,42,5,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Europe
+Netherlands,49,18,4,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Europe
+Australia,37,58,4,Business,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Oceania
+Canada,5,45,4,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+Brazil,31,38,5,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,South America
+USA,25,19,1,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+USA,3,4,5,Friends,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+USA,6,7,5,Solo,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+Finland,18,9,4,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Europe
+UK,0,9,5,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Europe
+USA,17,24,4,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+UK,21,19,5,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Europe
+Canada,34,41,5,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+USA,17,14,5,Solo,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+UK,3,16,2,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Europe
+USA,5,11,4,Business,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+USA,4,1,3,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+Mexico,15,25,4,Families,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+USA,11,36,5,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,North America
+Australia,16,9,4,Couples,YES,YES,YES,YES,Hilton Grand Vacations on the Boulevard,"3,5",1228,Oceania
+Canada,34,88,4,Business,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+USA,78,169,4,Business,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+USA,18,36,5,Families,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+USA,13,20,5,Business,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+UK,37,55,4,Friends,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Europe
+Germany,107,131,5,Business,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Europe
+Canada,0,8,5,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+USA,4,31,4,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+Australia,79,339,4,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Oceania
+Canada,39,42,4,Business,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+USA,5,6,5,Families,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+Australia,0,5,5,Families,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Oceania
+USA,37,48,5,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+Denmark,76,115,5,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Europe
+Taiwan,12,7,5,Families,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Asia
+Israel,40,25,5,Families,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Asia
+Hawaii,19,58,5,Friends,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+USA,3,5,5,Friends,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+Thailand,9,8,3,Business,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Asia
+Mexico,43,78,5,Families,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+Kuwait,23,20,4,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Asia
+Norway,12,46,4,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Europe
+USA,9,13,5,Couples,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,North America
+Germany,33,23,4,Families,YES,YES,NO,YES,Marriott's Grand Chateau,"3,5",732,Europe
+USA,71,119,5,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,5,12,5,Friends,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+UK,12,6,3,Business,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,Europe
+USA,117,319,5,Business,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,4,3,5,Friends,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,17,34,5,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+Brazil,5,9,5,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,South America
+USA,10,13,4,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+India,0,3,2,Families,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,Asia
+USA,20,22,3,Business,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+Malaysia,20,46,5,Friends,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,Asia
+USA,15,17,3,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+Germany,55,134,5,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,Europe
+Canada,3,7,4,Business,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+Canada,3,2,3,Business,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,3,19,4,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+Australia,15,16,5,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,Oceania
+USA,4,6,5,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+UK,11,14,3,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,Europe
+Canada,12,17,5,Business,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,71,119,4,Couples,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,6,9,3,Business,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+Canada,8,5,5,Families,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,4,4,5,Friends,YES,YES,YES,YES,Tuscany Las Vegas Suites & Casino,3,716,North America
+USA,24,72,3,Business,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,3,3,5,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+UK,13,26,2,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,Europe
+USA,3,8,2,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,13,21,5,Friends,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Hawaii,7,4,5,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Hawaii,14,61,3,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Canada,48,33,3,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,8,12,3,Friends,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Canada,1,1,3,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,11,24,5,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Australia,12,22,4,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,Oceania
+USA,7,25,3,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Canada,6,22,5,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,4,4,4,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,23,11,5,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Canada,18,24,5,Friends,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,263,300,4,Business,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Australia,7,9,4,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,Oceania
+India,44,53,4,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,Asia
+Czech Republic,5,15,4,Business,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,Europe
+USA,7,1,5,Business,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,9,25,4,Couples,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+Mexico,3,3,5,Families,YES,YES,NO,YES,Hilton Grand Vacations at the Flamingo,3,315,North America
+USA,3,12,4,Friends,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Australia,11,13,5,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Oceania
+USA,11,33,5,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Canada,4,15,5,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+USA,12,51,5,Friends,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+USA,12,35,4,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Canada,22,38,5,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+USA,4,7,5,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Australia,5,5,4,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Oceania
+USA,10,15,4,Business,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+UK,17,27,5,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Europe
+India,12,7,5,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Asia
+UK,3,14,5,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Europe
+USA,8,16,4,Friends,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+USA,8,14,3,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Canada,4,6,5,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+USA,3,14,5,Friends,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+USA,162,265,4,Business,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Ireland,27,32,3,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Europe
+UK,12,30,4,Couples,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Europe
+Japan,9,23,3,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,Asia
+USA,24,47,4,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+USA,28,133,4,Families,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Canada,35,46,5,Friends,YES,YES,NO,YES,Wyndham Grand Desert,"3,5",787,North America
+Ireland,11,20,4,Business,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+USA,6,9,5,Solo,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+USA,16,15,4,Families,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+Mexico,0,2,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+USA,3,13,3,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+USA,7,5,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+Israel,78,206,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Asia
+Australia,13,26,4,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Oceania
+Australia,10,26,4,Families,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Oceania
+UK,3,9,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+USA,5,6,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+USA,34,46,5,Business,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+Australia,6,19,4,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Oceania
+UK,7,12,4,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+Canada,8,24,5,Families,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+UK,6,15,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+UK,11,14,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+UK,7,15,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+Brazil,0,8,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,South America
+UK,20,31,4,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+Switzerland,6,3,5,Friends,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Europe
+Australia,38,29,5,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Oceania
+Singapore,10,11,5,Families,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,Asia
+USA,6,12,4,Couples,YES,YES,YES,YES,The Venetian Las Vegas Hotel,5,4027,North America
+Australia,6,3,4,Solo,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Oceania
+USA,3,13,5,Families,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+USA,6,26,4,Couples,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+USA,9,111,5,Business,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+India,35,53,5,Couples,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Asia
+USA,9,17,2,Business,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+Ireland,10,18,5,Business,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+Spain,0,8,2,Families,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+UK,6,16,3,Friends,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+UK,6,17,5,Couples,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+UK,0,5,5,Families,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+USA,5,11,4,Business,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+USA,5,23,5,Couples,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+Korea,18,48,4,Families,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Asia
+USA,8,2,4,Solo,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+Scotland,25,37,5,Families,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+Ireland,3,2,5,Couples,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+USA,13,31,4,Business,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+UK,22,42,5,Couples,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+UK,6,12,4,Couples,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+UK,18,43,5,Friends,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Europe
+Canada,10,39,5,Friends,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,North America
+India,4,1,4,Business,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Asia
+Malaysia,18,19,2,Families,YES,YES,YES,YES,Bellagio Las Vegas,5,3933,Asia
+USA,3,7,4,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+Canada,3,12,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,4,2,2,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,12,43,4,Friends,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,13,59,2,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,7,6,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,16,54,4,Business,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+Canada,4,39,3,Friends,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,5,4,5,Friends,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,42,51,3,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+Australia,12,38,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,Oceania
+Costa Rica,19,49,3,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,15,23,4,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+UK,9,11,4,Families,YES,YES,YES,YES,Paris Las Vegas,4,2916,Europe
+Egypt,37,65,5,Families,YES,YES,YES,YES,Paris Las Vegas,4,2916,Africa
+USA,7,26,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,10,27,4,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+Canada,6,13,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+Canada,3,10,2,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,4,6,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,8,25,4,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,3,5,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+Canada,26,63,5,Couples,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+USA,7,6,4,Friends,YES,YES,YES,YES,Paris Las Vegas,4,2916,North America
+Canada,13,17,4,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,3,4,3,Families,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+Italy,72,129,4,Solo,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,Europe
+USA,19,27,3,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,11,12,5,Business,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,7,13,5,Friends,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,22,47,4,Business,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+Egypt,43,85,4,Solo,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,Africa
+USA,17,21,3,Friends,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,10,18,4,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,47,161,4,Solo,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,13,11,3,Business,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+India,11,9,4,Families,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,Asia
+USA,8,1,5,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,21,22,3,Families,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,6,3,4,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,27,19,5,Solo,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,16,59,3,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+UK,3,25,5,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,Europe
+UK,4,8,5,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,Europe
+Canada,13,29,4,Couples,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,23,31,4,Friends,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,6,5,2,Families,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
+USA,19,112,4,Families,YES,YES,YES,YES,The Westin las Vegas Hotel Casino & Spa,4,826,North America
